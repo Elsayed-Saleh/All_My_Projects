@@ -5,11 +5,10 @@ Collection of all my projects
 <ul>
   <h3>My Projects</h3>
   <li>
-    StonePaperScissorsGame<br>
-    &nbsp;    &nbsp;
+    StonePaperScissorsGame<br>&nbsp;&nbsp;
     🔗 https://github.com/Elsayed-Saleh/StonePaperScissorsGame.git
-  
   </li>
+  
   
 </ul>
 
