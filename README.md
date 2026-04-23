@@ -7,7 +7,7 @@ Collection of all my projects
   <li>
     StonePaperScissorsGame<br>
     &nbsp;    &nbsp;
-   🔗  href="https://github.com/Elsayed-Saleh/StonePaperScissorsGame.git
+    🔗 https://github.com/Elsayed-Saleh/StonePaperScissorsGame.git
   
   </li>
   
