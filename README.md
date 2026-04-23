@@ -3,7 +3,8 @@ Collection of all my projects
 <h1>Welcome to my projects collection 🙌</h1>
 
 <ul>
-  <ol>https://github.com/Elsayed-Saleh/StonePaperScissorsGame.git</ol>
+  <li>https://github.com/Elsayed-Saleh/StonePaperScissorsGame.git</li>
+  
 </ul>
 
 
