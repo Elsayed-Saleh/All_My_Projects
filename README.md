@@ -8,6 +8,10 @@ Collection of all my projects
     StonePaperScissorsGame<br>&nbsp;&nbsp;
     🔗 https://github.com/Elsayed-Saleh/StonePaperScissorsGame.git
   </li>
+  <li>
+     Math Game <br>&nbsp;&nbsp;
+    🔗 https://github.com/Elsayed-Saleh/MathGame.git
+  </li>
   
   
 </ul>
