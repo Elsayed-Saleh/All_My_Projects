@@ -4,9 +4,9 @@ Collection of all my projects
 
 <ol>
   <h3></h3>
-  <ul>StonePaperScissorsGame</ul>
+  <ul>StonePaperScissorsGame
       <li>https://github.com/Elsayed-Saleh/StonePaperScissorsGame.git</li>
-  
+  </ul>
 </ol>
 
 
